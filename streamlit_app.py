@@ -4,3 +4,4 @@ st.title("welcome tu my apk")
 st.write(
     "bebas"
 )
+st.write("IMG_7556.jpeg", width=200)
